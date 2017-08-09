@@ -13,7 +13,16 @@ What value do you think it offers?
   It allows you time to consider and review what you want to track before
   committing it.
 
-How can you use the staging area to make sure you have one commit per logical change?
+How can you use the staging area to make sure you have one commit per logical
+change?
 
   You can commit multiple files at the same time so if a logical change
   spans multiple files you can update all of them concurrently.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+  Branches would help if you're trying to test a major new feature. Any
+  sufficiently advanced new feature would need to be built and tested in
+  stages, which means multiple commits, so branching would be essential to
+  keeping good version hygiene while being able to make progress.
