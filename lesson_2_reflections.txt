@@ -11,4 +11,9 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
   It allows you time to consider and review what you want to track before
-  committing it. 
+  committing it.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+  You can commit multiple files at the same time so if a logical change
+  spans multiple files you can update all of them concurrently.
