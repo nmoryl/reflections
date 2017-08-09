@@ -39,3 +39,15 @@ the diagram the way we do?
   Merging two branches includes both of their updates and changes. We represent
   it the way we do because we keep the full history of both branches when we
   do so.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  Pros of automatic merging:
+   + Maintains change history
+   + Automatically identifies conflicts fairly well (though not perfectly)
+   + Faster
+
+  Cons of automatic merging:
+   - Less control
+   - Can break if there are conflicts, but + identifies conflicts and gives you
+     an opportunity to resolve them
