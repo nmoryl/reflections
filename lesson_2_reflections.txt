@@ -32,3 +32,10 @@ How do the diagrams help you visualize the branch structure?
   They help me understand how commits relate to each other through time and
   where branches share history or don't share history, and where development
   diverges.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+  Merging two branches includes both of their updates and changes. We represent
+  it the way we do because we keep the full history of both branches when we
+  do so.
