@@ -26,3 +26,9 @@ organized? How would branches help?
   sufficiently advanced new feature would need to be built and tested in
   stages, which means multiple commits, so branching would be essential to
   keeping good version hygiene while being able to make progress.
+
+How do the diagrams help you visualize the branch structure?
+
+  They help me understand how commits relate to each other through time and
+  where branches share history or don't share history, and where development
+  diverges.
