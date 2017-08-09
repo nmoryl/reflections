@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  When you initialize a repository, git knows it needs to track it. By default,
+  a folder is not tracked. Git doesn't automatically track things or save
+  changes. You can have folders anywhere on your computer that you are
+  tracking through git. They don't all have to be in the same parent directory.
+  You need to initialize a repository for git to track the version history of
+  a directory.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+  It allows you time to consider and review what you want to track before
+  committing it. 
