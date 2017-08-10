@@ -29,3 +29,10 @@ stored locally?
 
   So you can resolve how far your local copy has diverged from last known
   remote copy
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+  You could send files back and forth instead and manually merge and resolve
+  differences. It would be slower and more error-prone. It would only be
+  easier inasmuch as it means people don't have to learn a new tool.
