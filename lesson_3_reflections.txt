@@ -36,3 +36,13 @@ and what would be harder?
   You could send files back and forth instead and manually merge and resolve
   differences. It would be slower and more error-prone. It would only be
   easier inasmuch as it means people don't have to learn a new tool.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+  If you have a lot of changes to make (e.g. adding a complicated new feature)
+  then you'll be making a lot of commits that may not make a lot of sense
+  individually but will as part of a bigger unit. A benefit of developing in
+  master would be less need to fast-forward since everyone is working on
+  something very close to the latest codebase. But that's probably outweighed
+  by the issues that arise.
