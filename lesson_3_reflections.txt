@@ -23,3 +23,9 @@ use one instead of another?
   on your own machine, but I'm not currently familiar with those use cases.
   You create a branch to develop on a repository you own. That repo could be a
   remote one or a local one.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+  So you can resolve how far your local copy has diverged from last known
+  remote copy
